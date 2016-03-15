@@ -154,3 +154,4 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+/SimpleInjectorDemo/packages/SimpleInjector.2.5.2
